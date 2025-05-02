@@ -73,7 +73,7 @@
             >;
         };
 
-        Nav {3
+        Nav {
             label = "Nav";
             bindings = <
                        &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp AMPERSAND  &kp KP_ASTERISK  &kp SQT    &kp DQT
