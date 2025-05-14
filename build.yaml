@@ -2,6 +2,6 @@ include:
   - board: seeeduino_xiao_ble
     shield: t_plus_left
     snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    cmake-args: -DCONFIG_ZMK_STUDIO=n
   - board: seeeduino_xiao_ble
     shield: t_plus_right
