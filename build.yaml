@@ -1,7 +1,7 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: totem_left
+    shield: t_plus_left
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: seeeduino_xiao_ble
-    shield: totem_right
+    shield: t_plus_right

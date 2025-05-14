@@ -1,0 +1,11 @@
+file_format: "1"
+id: t_plus
+name: t_plus
+type: shield
+url: https://github.com/GEIGEIGEIST/t_plus
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - t_plus_left
+  - t_plus_right
